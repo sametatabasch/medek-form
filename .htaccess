@@ -1,0 +1,2 @@
+# Proje kökü yanlışlıkla DocumentRoot yapılırsa veri/kaynak dosyalarını koru
+Require all denied

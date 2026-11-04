@@ -1,0 +1,156 @@
+[
+ {
+  "no": "01",
+  "slug": "bilgisayar-programcigi",
+  "ad": "Bilgisayar Programcılığı",
+  "bolum": "Bilgisayar Teknolojileri",
+  "medekno": "1.21 (Teknik)",
+  "ozgu": [
+   "Bilgisayar donanımlarını ve ağ sistemlerini açıklar.",
+   "Algoritma ve veri yapılarını oluşturur.",
+   "Veritabanı tasarımı, yönetimi ve uygulama entegrasyonunu gerçekleştirir.",
+   "Kullanıcı gereksinimlerine uygun temel web tabanlı uygulamalar geliştirir.",
+   "Yazılımları test eder ve hataları giderir."
+  ]
+ },
+ {
+  "no": "02",
+  "slug": "web-tasarimi-ve-kodlama",
+  "ad": "Web Tasarımı ve Kodlama",
+  "bolum": "Bilgisayar Teknolojileri",
+  "medekno": "1.174 (Teknik)",
+  "ozgu": [
+   "Web tasarımı ve kodlamaya ilişkin temel kavramları açıklar.",
+   "HTML, CSS ve istemci tarafı teknolojilerle duyarlı web arayüzleri geliştirir.",
+   "Web uygulamalarında veri yönetimi ve dinamik içerik uygulamalarını gerçekleştirir.",
+   "Web uygulamalarında içerik yönetimi, test ve hata ayıklama süreçlerini yürütür.",
+   "Web geliştirme süreçlerinde arayüz, dosya yapısı ve teknik dokümantasyon işlemlerini gerçekleştirir."
+  ]
+ },
+ {
+  "no": "03",
+  "slug": "alternatif-enerji-kaynaklari-teknolojisi",
+  "ad": "Alternatif Enerji Kaynakları Teknolojisi",
+  "bolum": "Elektrik ve Enerji",
+  "medekno": "1.7 (Teknik)",
+  "ozgu": [
+   "Alternatif enerji kaynaklarında kullanılan elektrik ve mekanik sistemleri açıklar.",
+   "Alternatif enerji kaynakları teknolojisi alanında teknik hesaplamaları yapar.",
+   "Alternatif enerji üretim sistemlerinin montajını gerçekleştirir.",
+   "Alternatif enerji sistemleriyle ilişkili fizibilite ve proje süreçlerini açıklar.",
+   "Alternatif enerji sistemlerinde arıza ve bakım işlemlerini yürütür."
+  ]
+ },
+ {
+  "no": "04",
+  "slug": "elektrik-enerjisi-uretim-iletim-ve-dagitimi",
+  "ad": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+  "bolum": "Elektrik ve Enerji",
+  "medekno": "1.50 (Teknik)",
+  "ozgu": [
+   "Elektrik teknolojileri ile ilgili temel matematiksel hesapları yapar.",
+   "Elektrik enerjisi üretimi, iletimi ve dağıtımı ile ilgili kavramları açıklar.",
+   "Enerji sektöründe üretilen enerjinin tüketim noktalarına iletim ve dağıtım sistemleri için otomasyon teknolojilerini uygular.",
+   "Enerji iletim ve dağıtım sistemlerinin arıza tespit, bakım ve onarım işlemlerini ilgili standartlara uygun şekilde yapar.",
+   "Elektrik enerjisi üretimi, iletimi ve dağıtımının projelendirmesini gerçekleştirir."
+  ]
+ },
+ {
+  "no": "05",
+  "slug": "geleneksel-el-sanatlari",
+  "ad": "Geleneksel El Sanatları",
+  "bolum": "El Sanatları",
+  "medekno": "1.66 (Teknik)",
+  "ozgu": [
+   "Geleneksel el sanatlarında kullanılan malzemeleri, üretim tekniklerini açıklar.",
+   "Geleneksel el sanatlarının tezhip, çini, ebru vb. sanatlarında uygulamalar yapar.",
+   "Geleneksel el sanatlarını modern tasarım anlayışıyla bilgisayar destekli çizim programlarını kullanarak yenilikçi ve özgün uygulamalar yapar.",
+   "Tasarım ve üretim süreçlerinde estetik, işlevsellik ve kalite kriterlerini açıklar.",
+   "Tarihi ve kültürel el sanatlarının bakım ve onarımı için gerekli yöntemleri açıklar."
+  ]
+ },
+ {
+  "no": "06",
+  "slug": "bankacilik-ve-sigortacilik",
+  "ad": "Bankacılık ve Sigortacılık",
+  "bolum": "Finans, Bankacılık ve Sigortacılık",
+  "medekno": "3.2 (Sosyal)",
+  "ozgu": [
+   "Bankacılık ve sigortacılık işlemlerinin süreçlerini ve uygulama esaslarını bilir.",
+   "Bankacılık ve sigortacılık işlemlerini mevzuata uygun yapar.",
+   "Risk analizi, mevduat, kredi ve ödeme işlemlerini prosedürlere uygun şekilde gerçekleştirir.",
+   "Sigorta poliçesi düzenler, hasar ve tazminat işlemlerini gerçekleştirir.",
+   "Finansal ürünleri, sektörün yapısını, pazarlama kavramlarını ve tüketici ihtiyaçlarını bilir."
+  ]
+ },
+ {
+  "no": "07",
+  "slug": "maliye",
+  "ad": "Maliye",
+  "bolum": "Finans, Bankacılık ve Sigortacılık",
+  "medekno": "3.21 (Sosyal)",
+  "ozgu": [
+   "Maliye, vergi ve bütçe süreçlerinin işleyişini bilir.",
+   "Vergi hesaplama ve beyanname düzenleme işlemlerini gerçekleştirir.",
+   "Mali tabloları düzenler ve mali verileri raporlar.",
+   "Kamu gelir, gider ve bütçe süreçlerini planlar ve uygular.",
+   "Mali süreçlere yönelik iyileştirme uygulamaları yapar."
+  ]
+ },
+ {
+  "no": "08",
+  "slug": "muhasebe-ve-vergi-uygulamalari",
+  "ad": "Muhasebe ve Vergi Uygulamaları",
+  "bolum": "Muhasebe ve Vergi",
+  "medekno": "3.25 (Sosyal)",
+  "ozgu": [
+   "Muhasebe ve vergi süreçlerinde geçerli yasal düzenlemeleri ve mesleki standartları açıklar.",
+   "Muhasebe kayıtlarını, defter ve belgelerini tutar ve düzenler.",
+   "Finansal tabloları hazırlar ve analiz eder.",
+   "Vergi beyannamelerini ve ilgili bildirimleri mevzuata uygun şekilde hazırlar ve düzenler.",
+   "Finansal tabloları ve maliyet hesaplamalarını vergi yükümlülükleriyle ilişkilendirerek analiz eder ve değerlendirir."
+  ]
+ },
+ {
+  "no": "09",
+  "slug": "posta-hizmetleri",
+  "ad": "Posta Hizmetleri",
+  "bolum": "Ulaştırma Hizmetleri",
+  "medekno": "3.30 (Sosyal)",
+  "ozgu": [
+   "Posta hizmetlerine ilişkin mevzuat, tebligat ve gönderi türlerine ait süreçleri açıklar.",
+   "Posta hizmetlerinde lojistik ve taşımacılık süreçlerinin işleyişini bilir.",
+   "Posta hizmetlerinde gönderi kabulü, ayrım, sevk ve teslim işlemlerini uygular.",
+   "Kayıtlı gönderi, kargo ve parasal posta hizmetlerine ilişkin işlemleri gerçekleştirir.",
+   "Posta hizmetlerine yönelik operasyon süreçlerini planlar."
+  ]
+ },
+ {
+  "no": "10",
+  "slug": "saglik-kurumlari-isletmeciligi",
+  "ad": "Sağlık Kurumları İşletmeciliği",
+  "bolum": "Yönetim ve Organizasyon",
+  "medekno": "3.34 (Sosyal)",
+  "ozgu": [
+   "Sağlık kurumlarındaki hizmet türlerini ve işleyiş süreçlerini bilir.",
+   "Sağlık hizmetlerine yönelik iş akışlarını planlar.",
+   "Sağlık kurumları mevzuatını ve terminolojisini açıklar.",
+   "Sağlık kurumlarının idari, mali, teknik ve tıbbi işleyişini bilir ve uygular.",
+   "Sağlık kurumlarında kaynak kullanımına ilişkin verileri analiz eder."
+  ]
+ },
+ {
+  "no": "11",
+  "slug": "turizm-ve-seyahat-hizmetleri",
+  "ad": "Turizm ve Seyahat Hizmetleri",
+  "bolum": "Seyahat, Turizm ve Eğlence Hizmetleri",
+  "medekno": "3.45 (Sosyal)",
+  "ozgu": [
+   "Turizm ürünlerini ve seyahat hizmet türlerini bilir.",
+   "Rezervasyon, satış ve biletleme işlemlerini bilir.",
+   "Tur paketlerini hazırlayarak operasyon sürecini organize eder.",
+   "Müşteri taleplerine uygun hizmet seçeneklerini belirler.",
+   "Seyahat hizmetleri ile ilgili mevzuatı ve yasal düzenlemeleri bilir."
+  ]
+ }
+]
