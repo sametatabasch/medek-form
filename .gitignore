@@ -2,3 +2,7 @@
 .DS_Store
 .idea/
 .vscode/
+
+# Çalışma verisi (şifre karmaları, girilen kayıtlar, yüklenen kanıtlar) asla depoya girmesin
+/data/*
+!/data/.htaccess
