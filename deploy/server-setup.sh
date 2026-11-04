@@ -77,11 +77,15 @@ server {
         try_files $uri /index.php?$query_string;
     }
 
-    location ~ \.php$ {
-        if ($uri !~ ^/index\.php$) { return 404; }
-        include snippets/fastcgi-php.conf;
+    location = /index.php {
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $document_root/index.php;
+        fastcgi_param HTTP_PROXY "";
         fastcgi_pass unix:__SOCK__;
     }
+
+    # index.php dışında hiçbir PHP dosyası çalıştırılmasın
+    location ~ \.php$ { return 404; }
 
     location ~* \.(css|js)$ { expires 7d; }
 
