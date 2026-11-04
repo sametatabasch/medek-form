@@ -93,7 +93,8 @@ sed -i "s|__DOMAIN__|$DOMAIN|g; s|__ROOT__|$P|g; s|__SOCK__|$SOCK|g" "$CONF"
 else
   echo "HTTPS yapılandırması mevcut; nginx bloğu değiştirilmedi ($CONF)."
 fi
-ln -sf "$CONF" "/etc/nginx/sites-enabled/$DOMAIN"
+rm -f "/etc/nginx/sites-enabled/$DOMAIN"            # eski (uzantısız) bağlantı
+ln -sf "$CONF" "/etc/nginx/sites-enabled/$DOMAIN.conf"  # bazı sunucularda yalnızca *.conf dahil edilir
 nginx -t
 systemctl reload nginx
 
